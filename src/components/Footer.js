@@ -12,7 +12,7 @@ const footer = (props) => {
       >
         Sudeep Pirangi
       </a>
-      &nbsp;using React Framework
+      &nbsp;using React library
     </div>
   );
 };
