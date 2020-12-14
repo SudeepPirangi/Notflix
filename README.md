@@ -1,3 +1,8 @@
+# Notflix Webapp
+
+Notflix is a React SPA hosted on Firebase. Authenticated using Firebase authentication api.
+Production: [https://notflix-5b437.web.app/](https://notflix-5b437.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
