@@ -1,4 +1,4 @@
-# Notflix Webapp
+# Notflix
 
 [Notflix](https://notflix-5b437.web.app/) is a React SPA hosted on Firebase.<br />
 Authenticated using Firebase authentication api.<br />
